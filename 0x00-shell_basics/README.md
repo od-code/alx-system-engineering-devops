@@ -8,3 +8,5 @@
 [3-listfiles](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/3-listfiles): Lists contents of a directory in long format.
 
 [4-listmorefiles](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/4-listmorefiles): List all the files in the working directory including the hidden ones.
+
+[5-listfilesdigitonly](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/5-listfilesdigitonly) : List files in long format with user and group IDs.
