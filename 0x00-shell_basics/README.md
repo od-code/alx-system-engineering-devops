@@ -18,3 +18,5 @@
 [8-firstdelete](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/8-firstdelete) : Deletes file in a directory.
 
 [9-firstdirdeletion](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/9-firstdirdeletion): Deletes a directory.
+
+[10-back](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/10-back): Changes working directory to previous one.
