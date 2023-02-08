@@ -24,3 +24,5 @@
 [11-lists](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/11-lists): Lista all contents in two  directories.
 
 [12-file_type](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/12-file_type): Displays foile type of a file
+
+[13-symbolic link](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/13_symbolic_link): Creates a synbolic link
