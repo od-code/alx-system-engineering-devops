@@ -20,3 +20,4 @@
 [9-firstdirdeletion](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/9-firstdirdeletion): Deletes a directory.
 
 [10-back](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/10-back): Changes working directory to previous one.
+[11-lists](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/11-lists): Lista all contents in two  directories
