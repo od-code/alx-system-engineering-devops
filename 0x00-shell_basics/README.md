@@ -31,4 +31,6 @@
 
 [100-lets_move](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/100-lets_move): Moves files from one directory to the other.
 
-[101-clean_emacs](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/101-clean_emacs): Detes file in a directory.
+[101-clean_emacs](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/101-clean_emacs): Deletes file in a directory.
+
+[102-tree](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/102-tree): Creates directories oand subdirectories of specified path.
