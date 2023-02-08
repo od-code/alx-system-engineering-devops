@@ -30,3 +30,5 @@
 [14-copy_htm](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/14-copy_html): Copies html files
 
 [100-lets_move](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/100-lets_move): Moves files from one directory to the other.
+
+[101-clean_emacs](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/101-clean_emacs): Detes file in a directory.
