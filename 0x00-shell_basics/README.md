@@ -26,3 +26,5 @@
 [12-file_type](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/12-file_type): Displays foile type of a file
 
 [13-symbolic link](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/13_symbolic_link): Creates a synbolic link
+
+[14-copy_htm](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/14-copy_html): Copies html files
