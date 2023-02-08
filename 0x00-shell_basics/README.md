@@ -14,3 +14,5 @@
 [6-firstdirectory](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/6-firstdirectory): Creates a directory in the /tmp directory.
 
 [7-movethatfile](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/7-movethatfile): Moves file from one directory to the other.
+
+[8-firstdelete](https://github.com/od-code/alx-system_engineering-devops/blob/main/0x00-shell_basics/8-firstdelete) : Deletes file in a directory.
