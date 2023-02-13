@@ -1,2 +1,4 @@
 # alx-system-engineering-devops
-This repository contains commands used to interact with linux.
+1. [0x00-shell_basics](https://github.com/od-code/alx-system_engineering-devops/tree/main/0x00-shell_basics)
+
+2. [0x01-shell_permissions](https://github.com/od-code/alx-system_engineering-devops/tree/main/0x01-shell_permissions)
